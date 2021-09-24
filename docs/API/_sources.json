@@ -1,0 +1,14 @@
+{
+    "sources": [
+        {
+            "name": "Amino - Github Repo",
+            "description": "The official github repo for Amino",
+            "url": "https://github.com/Hitoshi16/Amino"
+        },
+        {
+            "name": "Support Server",
+            "description": "Need help?",
+            "url": ""
+        }
+    ]
+}
